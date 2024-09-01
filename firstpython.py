@@ -1,2 +1,2 @@
 #Display the output
-print("hacer un pull")
+print("hacer un spull")
