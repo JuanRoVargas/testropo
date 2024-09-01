@@ -1,2 +1,2 @@
-nombre=" soy mama Coco "
+nombre=" soy la señora Coco "
 print("hola " + nombre)
